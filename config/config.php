@@ -20,7 +20,7 @@ $config['botToken'] = "8858881703:AAFzhkqaXRHi25H6F01c6mTZKoWRQsOt07k";
 | ID can be obtained from https://telegram.dog/username_to_id_bot
 |
 */
-$config['adminID'] = "5165114445";
+$config['adminID'] = "checmanBot";
 
 /*
 |--------------------------------------------------------------------------
